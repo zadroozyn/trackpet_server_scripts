@@ -14,5 +14,9 @@ sh scripts/set_nodejs.sh
 printf "\n"
 sh scripts/set_iptables.sh
 printf "\n"
+sh scripts/set_git.sh
+printf "\n"
+sh scripts/set_vim.sh
+printf "\n"
 
 echo "server up and ready!"
