@@ -13,5 +13,5 @@ add key to GitHub account
 
 Step 2
 --
-g clone git@github.com:zadroozyn/trackpet_server_scripts.git server_scripts &&
+git clone git@github.com:zadroozyn/trackpet_server_scripts.git server_scripts &&
 sh server_scripts/set_new_server.sh
