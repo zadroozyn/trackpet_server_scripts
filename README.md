@@ -4,7 +4,7 @@
 
 ## Step 1
 ```
-sudo su;passwd;ssh-keygen -q -N "" -f /root/.ssh/id_rsa;cat ~/.ssh/id_rsa.pub;
+passwd;ssh-keygen -q -N "" -f /root/.ssh/id_rsa;cat ~/.ssh/id_rsa.pub;
 ```
 ### add key to GitHub account
 
