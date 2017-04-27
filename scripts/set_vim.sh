@@ -9,4 +9,10 @@ echo "set t_Co=256" >> ~/.vimrc
 echo "let g:monokai_term_italic = 1" >> ~/.vimrc
 echo "let g:monokai_gui_italic = 1" >> ~/.vimrc
 echo "set number" >> ~/.vimrc
+
+export EDITOR=/usr/bin/vim
+export VISUAL=/usr/bin/vim
+echo "export EDITOR=/usr/bin/vim" >> /etc/profile
+echo "export VISUAL=/usr/bin/vim" >> /etc/profile
+
 echo "vim configuration done"
