@@ -19,4 +19,4 @@ printf "\n"
 sh scripts/set_vim.sh
 printf "\n"
 echo "server up and ready!"
-sh run_zsh.sh
+sh scripts/run_zsh.sh
