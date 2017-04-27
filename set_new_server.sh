@@ -18,5 +18,5 @@ sh scripts/set_git.sh
 printf "\n"
 sh scripts/set_vim.sh
 printf "\n"
-
 echo "server up and ready!"
+sh run_zsh.sh
