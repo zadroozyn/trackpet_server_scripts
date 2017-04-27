@@ -1,5 +1,4 @@
 echo "loading fake data to mongoDB..."
-
-sh fake_data/load.sh
-
+cd fake_data
+sh load.sh
 echo "fake data loaded"
