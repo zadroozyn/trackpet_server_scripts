@@ -1,3 +1,3 @@
 echo "setting nodejs..."
-echo "node=nodejs" >> ~/.bash_aliases
+ln -s /usr/bin/nodejs /usr/bin/node
 echo "nodejs ready"
